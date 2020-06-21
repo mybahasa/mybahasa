@@ -3,7 +3,7 @@ title: My
 subtitle: Bahasa
 email: nitapandi@gmail.com
 description: Your coaching and mentoring service to learn bahasa indonesia and english
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
