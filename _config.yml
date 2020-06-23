@@ -2,16 +2,16 @@
 title: MB
 subtitle: My Bahasa
 email: nitapandi@gmail.com
-description: Your coaching and mentoring service to learn bahasa indonesia and english
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: Boost your learning process through individual coaching and mentoring sessions
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+#street_address: 
+#city: 
+#state:
+#zip_code: 
+#country: 
+#phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

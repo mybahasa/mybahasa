@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Text of the home page
+Send us a message and get your customized coaching plan to rocket launch your learning progress!

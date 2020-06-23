@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Indonesian
+description: Bahasa Indonesia
+image: assets/images/indonesia_flag.png
 nav-menu: true
 ---
 
